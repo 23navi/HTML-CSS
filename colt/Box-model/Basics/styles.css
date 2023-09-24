@@ -1,0 +1,27 @@
+* {
+  color: red;
+}
+
+/*
+div {
+  border: 10px solid red;
+  border-top: 100px solid red;
+  border-top-style: dashed;
+  border-right-style: dotted;
+  border-left-style: double;
+  border-bottom-style: groove;
+}*/
+
+#container {
+  border: 5px solid red;
+  height: 100px;
+  width: 500px;
+  padding: 10px 20px  
+}
+
+#box {
+  border: 1px solid green;
+  height: 50%;
+  width: 500px;
+  margin: 50px;
+}
