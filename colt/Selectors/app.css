@@ -1,0 +1,16 @@
+/* Attribute selector */
+
+a[href^="#"] {
+  /* Where link starts with # */
+  color: green;
+}
+
+a[href$=".com"] {
+  /*Where link ends with .com*/
+  color: purple;
+}
+
+a[href*="wiki"] {
+  /*Where link contains wiki*/
+  color: red;
+}
