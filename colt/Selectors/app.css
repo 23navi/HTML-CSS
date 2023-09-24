@@ -14,3 +14,11 @@ a[href*="wiki"] {
   /*Where link contains wiki*/
   color: red;
 }
+
+div h2 {
+  color: yellowgreen;
+}
+
+div span {
+  color: pink;
+}
