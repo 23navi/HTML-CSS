@@ -1,0 +1,14 @@
+#alternate {
+  width: 500px;
+  height: 300px;
+  border: 200px solid red;
+  background-color: aqua;
+  box-sizing: border-box;
+}
+
+#default {
+  width: 500px;
+  height: 300px;
+  border: 20px solid red;
+  background-color: aqua;
+}
