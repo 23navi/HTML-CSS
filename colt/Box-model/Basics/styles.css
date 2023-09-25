@@ -14,14 +14,22 @@ div {
 
 #container {
   border: 5px solid red;
-  height: 100px;
-  width: 500px;
-  padding: 10px 20px  
+  height: 90px;
+  padding: 10px 20px;
+  width: 280px;
+  overflow: scroll;
 }
 
+#cont2 {
+  border: 5px solid red;
+  height: 100px;
+  padding: 10px 20px;
+  width: 500px;
+}
+/* 
 #box {
   border: 1px solid green;
   height: 50%;
   width: 500px;
   margin: 50px;
-}
+} */
