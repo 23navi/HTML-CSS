@@ -1,0 +1,15 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar {
+  background-color: red;
+  /* flex-grow: 1; */
+}
+
+p {
+  width: 500px;
+  background-color: green;
+  /* flex-grow:1; */
+}
