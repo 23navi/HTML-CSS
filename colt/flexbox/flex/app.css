@@ -12,5 +12,7 @@
 p {
   width: 500px;
   background-color: green;
-  flex-grow:1;
+  flex-grow: 1;
 }
+
+
